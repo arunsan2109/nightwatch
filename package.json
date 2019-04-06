@@ -1,0 +1,15 @@
+{
+  "name": "workspace_nightwatch",
+  "version": "1.0.0",
+  "description": "To learn automation Testing.",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Arun",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.1.1",
+    "nightwatch": "^1.0.19"
+  }
+}
